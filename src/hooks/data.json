@@ -1,0 +1,17 @@
+[
+  {
+    "type": "profit",
+    "description": "已實現獲利",
+    "value": 270537
+  },
+  {
+    "type": "loss",
+    "description": "已實現虧損",
+    "value": -791
+  },
+  {
+    "type": "cost",
+    "description": "總交易成本",
+    "value": 216801
+  }
+]
